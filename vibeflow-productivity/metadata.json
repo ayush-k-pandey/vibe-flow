@@ -1,0 +1,8 @@
+{
+  "name": "VibeFlow Productivity",
+  "description": "A high-energy, Gen-Z inspired productivity tracker with gamified tasks, neon analytics, and social leaderboards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
